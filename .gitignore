@@ -1,0 +1,12 @@
+.cproject
+.project
+.svn/
+build/CMakeCache.txt
+build/CMakeFiles/
+build/Makefile
+build/cmake_install.cmake
+build/configure.sh~
+build/msp430-cpu-gauge.elf
+build/generate.py~
+.settings/
+build/avago-encoder.elf
